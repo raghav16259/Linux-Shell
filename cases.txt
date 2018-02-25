@@ -1,0 +1,32 @@
+ls
+ls -a
+ls -1 /Users
+date
+date -u
+date -uR
+cat date.c
+cat -n date.c ls.c
+cat -ne ls.c rm.c
+mkdir hi
+mkdir -v /Users/bye
+mkdir -m 0777 yo
+rm hi
+rm -i bye
+rm -vi /Users
+exit
+exit egege
+cd -
+cd ~
+cd /Users/raghav
+pwd
+pwd -P
+pwd -L
+history
+history -c
+echo wfww
+echo wfwf fw
+echo "fwfw"
+echo ""fw"
+
+
+
